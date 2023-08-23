@@ -1,0 +1,152 @@
+### Step 2A
+peggy@DESKTOP-RTL20A8 MINGW64 ~
+$ pwd
+/c/Users/peggy
+
+### Step 2B
+peggy@DESKTOP-RTL20A8 MINGW64 ~
+$  cd OneDrive
+peggy@DESKTOP-RTL20A8 MINGW64 ~/OneDrive
+$ pwd
+/c/Users/peggy/OneDrive
+
+### Step 2C
+peggy@DESKTOP-RTL20A8 MINGW64 ~/OneDrive
+$ cd d:/
+peggy@DESKTOP-RTL20A8 MINGW64 /d
+$ pwd
+/d
+peggy@DESKTOP-RTL20A8 MINGW64 /d
+$ cd GrandCircus
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus
+$ cd Books
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books
+$ pwd
+/d/GrandCircus/Books
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books
+$ cd Unit1
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1
+$ pwd
+/d/GrandCircus/Books/Unit1
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1
+$ cd unit1-git-practice
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ pwd
+/d/GrandCircus/Books/Unit1/unit1-git-practice
+
+### Step 2D
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ pwd
+/d/GrandCircus/Books/Unit1/unit1-git-practice
+
+### Step 2E
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ cd c:
+
+### Step 2H
+peggy@DESKTOP-RTL20A8 MINGW64 /c
+$ pwd
+
+### Step 2I
+/c
+
+### Step 2J
+peggy@DESKTOP-RTL20A8 MINGW64 /c
+$ cd ~
+
+### Step 2K
+peggy@DESKTOP-RTL20A8 MINGW64 ~
+$ cd /d/GrandCircus/Books/Unit1/unit1-git-practice
+
+### Step 3A
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mkdir veggies
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mkdir meats
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mkdir desserts
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$
+
+### Step 3B
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mv desserts sweets
+
+### Step 3C
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mkdir proteins
+
+### Step 3D
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mv meats proteins
+
+### Step 3E
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/veggies
+$ touch carrot.txt
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/veggies
+$ touch pea.txt
+
+### Step 3F
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/veggies
+$ cd ..
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ cd sweets/
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/sweets
+$ touch cookie.txt
+
+### Step 3G
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+### Step 3H
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice/sweets
+$ cd ..
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ touch thing.txt
+
+### Step 3I
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ cp thing.txt tofu.txt
+
+### Step 3J
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mv tofu.txt proteins
+
+### Step 3K
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ cp thing.txt crab.txt
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mv crab.txt proteins/meats/
+
+### Step 3L
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ rm thing.txt
+
+### Step 3M
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ cp -r veggies/ plants
+
+### Step 3N
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ mkdir drinks
+peggy@DESKTOP-RTL20A8 MINGW64 /d/GrandCircus/Books/Unit1/unit1-git-practice
+$ rmdir drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
